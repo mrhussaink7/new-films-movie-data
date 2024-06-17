@@ -1,2 +1,5 @@
 # Ignore Zip
 im.db
+
+# Ignore ipynb checkpoints
+.ipynb_checkpoints

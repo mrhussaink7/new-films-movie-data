@@ -10,6 +10,8 @@ Our company sees competitors creating original video content and now wants to jo
 
 As the data scientist of the company, my goal is to explore what types of films are currently performing the best at the box office and with my findings – create actionable insights that the company's new studio can use to decide what type of films to create.
 
+Analysis by Kawsar Hussain
+
 ## Challenge
 
 With the task at hand, we will be presenting to our company stakeholders three different recommendations that will directly affect our business revenue. The goal is to provide data-driven direction for our new film studio using evidence that our recommendations will result in truly benefitting the company.

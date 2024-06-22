@@ -66,3 +66,17 @@ This project uses statistical analysis, including formulating three hypotheses o
 - #### Implement predictive modeling and linear regression analysis to forecast movie revenues based on budget, genre, and release timing, providing stakeholders with data-driven revenue predictions.
 - #### Explore other features and variables such as ratings and reviews to uncover additional factors that influence movie success, enhancing the overall predictive model.
 - #### Apply optimization techniques for effective budget allocation, ensuring resources are used in a way that maximizes potential returns on investment.
+
+## Repository Structure
+
+├── images
+│   ├── hypothesis1_graph.png
+│   ├── hypothesis2_graph.png
+│   ├── hypothesis3_graph.png
+├── zippedData
+│   ├── im.db.zip
+│   ├── tn.movie_budgets.csv.gz
+├── LICENSE
+├── README.md
+├── film_data_analysis.ipynb
+└── film_data_analysis_presentation.pdf

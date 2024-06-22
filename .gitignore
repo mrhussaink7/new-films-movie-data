@@ -1,10 +1,11 @@
 # Files to be ignored:
 
 # Ignore zip file
-im.db
+zippedData/im.db
 
 # Ignore ipynb checkpoints
 .ipynb_checkpoints
 
 # Ignore DS store
 .DS_Store
+

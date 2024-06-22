@@ -18,7 +18,6 @@ With the task at hand, we will be presenting to our company stakeholders three d
 
 In the folder `zippedData`, we have datasets from:
 
-- [Box Office Mojo](https://www.boxofficemojo.com/)
 - [IMDB](https://www.imdb.com/)
 - [The Numbers](https://www.the-numbers.com/)
 
